@@ -8,4 +8,3 @@ Spiel spiel = factory.CreateSpiel(new SpielKonfiguration()
     AnzahlSpieler = 4,
     AnzahlFarben = 4
 });
-

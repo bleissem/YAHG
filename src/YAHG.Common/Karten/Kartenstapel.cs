@@ -2,6 +2,6 @@
 {
     public class Kartenstapel
     {
-        public IEnumerable<Karte> Karten { get;set; }
+        public IEnumerable<Karte> Karten { get; set; }
     }
 }

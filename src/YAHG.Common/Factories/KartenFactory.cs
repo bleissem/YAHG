@@ -4,7 +4,7 @@ namespace YAHG.Common.Factories
 {
     public class KartenFactory
     {
-        public IEnumerable<Karte> Create(Farbe farbe) 
+        public IEnumerable<Karte> Create(Farbe farbe)
         {
             for (int i = 0; i < 3; ++i)
             {
@@ -19,7 +19,6 @@ namespace YAHG.Common.Factories
             }
 
             yield return new Karte(farbe, Wert.Fuenf);
-            
         }
     }
 }

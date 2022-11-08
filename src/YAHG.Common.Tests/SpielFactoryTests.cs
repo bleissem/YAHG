@@ -5,7 +5,7 @@ namespace YAHG.Common.Tests
     public class SpielFactoryTests
     {
         [Theory]
-        [InlineData(4,4)]
+        [InlineData(4, 4)]
         public void TestSpielFactory(int spieler, int farben)
         {
             SpielFactory factory = new SpielFactory();

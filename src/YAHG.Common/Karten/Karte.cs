@@ -4,7 +4,6 @@
     {
         public Karte()
         {
-
         }
 
         public Karte(Farbe farbe, Wert wert)
