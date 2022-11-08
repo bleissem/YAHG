@@ -6,6 +6,7 @@
         Gelb,
         Gruen,
         Blau,
-        Weis
+        Weiss,
+        Bunt
     }
 }
