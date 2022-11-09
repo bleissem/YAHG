@@ -1,5 +1,8 @@
 ﻿namespace YAHG.Common.Karten
 {
+    /// <summary>
+    /// HanabiCard
+    /// </summary>
     public record Karte
     {
         public Karte()

@@ -2,6 +2,9 @@
 
 namespace YAHG.Common
 {
+    /// <summary>
+    /// HanabiGame
+    /// </summary>
     public class Spiel
     {
         public Kartenstapel Kartenstapel { get; set; }
